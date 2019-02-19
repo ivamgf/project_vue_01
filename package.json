@@ -1,0 +1,38 @@
+{
+  "name": "project_vue_v1.0.0",
+  "version": "1.0.0",
+  "description": "project vue test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivamgf/project_vue_01.git"
+  },
+  "keywords": [
+    "prototype",
+    "vue",
+    "test"
+  ],
+  "author": "Ivam Galvao Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivamgf/project_vue_01/issues"
+  },
+  "homepage": "https://github.com/ivamgf/project_vue_01#readme",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "sass": "^1.16.1",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "fs": "0.0.1-security",
+    "http-server": "^0.11.1",
+    "npm": "^6.7.0",
+    "sass": "^1.16.1",
+    "vue": "^2.6.6"
+  }
+}
